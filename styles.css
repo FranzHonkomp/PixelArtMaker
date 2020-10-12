@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: rgb(217,217,217);
+}
+
+h1 {
+    border-radius: 0.25em;
+    border: 0.05em solid black;
+    font-family: Monoton;
+    color: white;
+    font-size: 70px;
+    background-image: url("SNES_Collage.png");
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: white;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 4em;
+    margin: 0.25em;
+}
+
+input:invalid+span:after {
+  content: '\2613';
+  padding-left: 5px;
+}
+
+input:valid+span:after {
+  content: '\2713';
+  padding-left: 5px;
+}
+
+div {
+  border-radius: 0.5em;
+  border: 1.5px solid black;
+  padding: 0.25em;
+  margin: 0.25em;
+}

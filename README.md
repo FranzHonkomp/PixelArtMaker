@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [FastRun](#fastrun)
+* [ShowRoom](#showroom)
 
 ## Instructions
 
@@ -16,6 +16,6 @@ This repository is based on the starter code for _all_ Udacity students. You can
 An awsome project, which was really good to combine the newly gaind abbilities with python, html and css.
 Feel free to leave a comment :)
 
-## FastRun
+## ShowRoom
 http://htmlpreview.github.io/?https://github.com/FranzHonkomp/PixelArtMaker/blob/main/index.html
 
